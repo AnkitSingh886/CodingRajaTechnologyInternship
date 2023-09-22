@@ -12,13 +12,13 @@
     width: 200px;   
 }
 .background{
-    background-color:rgba(147, 141, 126, 0.224);
+    background-color:rgba(147, 141, 126, 0.364);
 }   
 body{
     background-color:#d6dcc5;
 }
 .ab{
-    background-color: #acbb90;
+    background-color: #bbad90;
 }
 .form-control{
     display: block;
@@ -27,8 +27,8 @@ body{
     padding: 6px 12px;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #555; /* THIS */
-    background-color: #fff;
+    color: #555555; /* THIS */
+    background-color: #ffffff;
     background-image: none;
     border: 1px solid #ccc; /* THIS */
     border-radius: 4px; /* THIS */
